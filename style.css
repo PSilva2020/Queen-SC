@@ -1,0 +1,41 @@
+#specialVideo{
+	position:absolute;
+	top:200px;
+	right:100px;
+}
+
+#Vid{
+	position:absolute;
+	top:1000px;
+	right:100px;
+}
+
+.infoContainer{
+	width:35%;
+	overflow:auto;
+	float:right;
+}
+		 
+Body{
+background-image:url("https://is3-ssl.mzstatic.com/image/thumb/Music3/v4/db/a3/9a/dba39a3c-03fc-94a4-8f94-a8a69d9cdf5c/UMG_cvrart_00050087319090_01_RGB72_1500x1500_14DMGIM05632.jpg/1200x630bb.jpg")
+}
+
+table,th,td{
+	border:1px solid black;
+}
+
+p{
+	color: rgb(400, 50, 150);
+}
+
+tbody{
+	color: rgb(500, 100, 300);
+}
+
+Cake{
+	width:38%:
+}
+
+li{
+	color: rgb(500, 100, 100);
+}
